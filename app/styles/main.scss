@@ -1,0 +1,38 @@
+body {
+  background: #fafafa;
+  font-family: times;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  line-height: 100px;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #FAFAFA;
+  font-size: 15px;
+  font-style: italic;
+
+}
+
+.header {
+  margin: 0 auto 50px auto;
+  width: 100%;
+  background-color: #eee;
+  padding: 20px;
+  h1 {
+      font-size: 60px;
+      line-height: 30px;
+      text-align: center;
+      letter-spacing: 1px;
+  }
+}
+
+.box {
+  margin: 50px auto 50px auto;
+  width: 400px;
+  height: 100px;
+  background: #333;
+  border-radius: 5px;
+}
